@@ -1,2 +1,2 @@
- cd blogging\ website\ -\ frontend/
+cd blogging\ website\ -\ frontend/
 npm i
